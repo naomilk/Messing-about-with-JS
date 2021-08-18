@@ -1,6 +1,6 @@
 const MinCash = 5000
 const IdealCash = 10000
-let TodaysCash = 6000
+let TodaysCash = 6500
 let Expense = 3000
 
 if (TodaysCash < MinCash) {
